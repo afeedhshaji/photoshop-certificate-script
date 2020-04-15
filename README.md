@@ -12,7 +12,7 @@ The script was tested on Photoshop CC 2019. Could work with any version of Photo
 2. Open the Photoshop template document. Browse and select the script file `File ▸ Scripts ▸ Browse`.
 3. The downloaded files will be found relative to the currently opened photoshop document.
 
-Aleternatively,
+Alternatively,
 
 1. Download the photoshop template and script files.
 2. Move the script and the associated json file into the /presets/scripts directory, located by in your Photoshop folder.
